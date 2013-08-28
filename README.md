@@ -1,0 +1,4 @@
+cameldemo
+=========
+
+Camel Spring Demo
